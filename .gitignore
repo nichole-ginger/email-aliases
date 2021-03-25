@@ -1,0 +1,8 @@
+credentials.json
+credentials/*
+dev-credentials.json
+token.json
+dev-token.json
+dev-token-*.json
+token-*.json
+results/*
