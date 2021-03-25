@@ -6,3 +6,4 @@ dev-token.json
 dev-token-*.json
 token-*.json
 results/*
+vars.py
